@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Marvel_Comic/static/css/main.64c8e906.chunk.css",
+    "main.js": "/Marvel_Comic/static/js/main.add2b42e.chunk.js",
+    "main.js.map": "/Marvel_Comic/static/js/main.add2b42e.chunk.js.map",
+    "runtime-main.js": "/Marvel_Comic/static/js/runtime-main.5aee72f5.js",
+    "runtime-main.js.map": "/Marvel_Comic/static/js/runtime-main.5aee72f5.js.map",
+    "static/js/2.b3594105.chunk.js": "/Marvel_Comic/static/js/2.b3594105.chunk.js",
+    "static/js/2.b3594105.chunk.js.map": "/Marvel_Comic/static/js/2.b3594105.chunk.js.map",
+    "static/js/3.f0e7121c.chunk.js": "/Marvel_Comic/static/js/3.f0e7121c.chunk.js",
+    "static/js/3.f0e7121c.chunk.js.map": "/Marvel_Comic/static/js/3.f0e7121c.chunk.js.map",
+    "index.html": "/Marvel_Comic/index.html",
+    "static/css/main.64c8e906.chunk.css.map": "/Marvel_Comic/static/css/main.64c8e906.chunk.css.map",
+    "static/js/2.b3594105.chunk.js.LICENSE.txt": "/Marvel_Comic/static/js/2.b3594105.chunk.js.LICENSE.txt",
+    "static/media/spinner-black.0eb5987b.gif": "/Marvel_Comic/static/media/spinner-black.0eb5987b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aee72f5.js",
+    "static/js/2.b3594105.chunk.js",
+    "static/css/main.64c8e906.chunk.css",
+    "static/js/main.add2b42e.chunk.js"
+  ]
+}
