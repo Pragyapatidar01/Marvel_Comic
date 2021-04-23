@@ -17,7 +17,7 @@ function App() {
       const fetch = async () => {
         if(query ==='')
         {
-        const result = await axios.get(`http://gateway.marvel.com/v1/public/characters?ts=1&apikey=b86fcab15da26f47d3b09aa54b48da03&hash=${process.env.REACT_APP_HASH}`)
+        const result = await axios.get(`https://gateway.marvel.com/v1/public/characters?ts=1&apikey=b86fcab15da26f47d3b09aa54b48da03&hash=${process.env.REACT_APP_HASH}`)
 
         console.log(result.data.data.results)
         setItems(result.data.data.results)
@@ -25,7 +25,7 @@ function App() {
         }
         else
         {
-        const result = await axios.get(`http://gateway.marvel.com/v1/public/characters?nameStartsWith=${query}&ts=1&apikey=b86fcab15da26f47d3b09aa54b48da03&hash=${process.env.REACT_APP_HASH}`)
+        const result = await axios.get(`https://gateway.marvel.com/v1/public/characters?nameStartsWith=${query}&ts=1&apikey=b86fcab15da26f47d3b09aa54b48da03&hash=${process.env.REACT_APP_HASH}`)
 
         console.log(result.data.data.results)
         setItems(result.data.data.results)
